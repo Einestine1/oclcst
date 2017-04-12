@@ -2,13 +2,12 @@
 OCL Class Specs Testbed
 
 Introduction:
-This project was developed during my MS thesis research. The concept here is to generate optimized test sequences for OCL class specifications. As far as the functionality is concerned, this project is a proof of concept at the moment covering most of the aspects of OCL class constraint specifications and fully functional Abstract Finite State Machine (AFSM) along with applied Multi Object Genetic Algorithms (MOGA).
 
+This project was developed during my MS thesis research. The concept here is to generate optimized test sequences for OCL class specifications. As far as the functionality is concerned, this project is a proof of concept at the moment covering most of the aspects of OCL class constraint specifications and fully functional Abstract Finite State Machine (AFSM) along with applied Multi Object Genetic Algorithms (MOGA).
 Features
 Test Sequences from OCL class specifications.
 Test Sequence Optimization using Multi Objective Genetic Algorithm
 Automated Generation and Optimization of the Object Constraint Language (OCL) based test sequences
-AFSMs can be created, visualized and executed with the visual effects
 
 Functional phases:
 1.	Abstract Finite State Machine (AFSM) creation after OCL parsing and semantics analysis.
